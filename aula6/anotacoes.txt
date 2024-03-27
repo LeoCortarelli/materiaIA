@@ -1,0 +1,5 @@
+ANTES DE TUDO RODAR O COMANDO 
+Scripts\activate
+
+INSTALANDO O VENV
+python -m venv C:\Users\cortarelli.0926\Documents\Materias\IA\aula6
